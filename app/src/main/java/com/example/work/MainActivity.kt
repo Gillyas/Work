@@ -20,9 +20,6 @@ class MainActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
     }
-    fun onClickToast(view: View) {
-        Toast.makeText(this, "Я буду android-разработчиком!!", Toast.LENGTH_SHORT).show() // создали функцию с нашей кнопкой
 
-    }
 
 }
