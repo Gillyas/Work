@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Фильмопоиск</string>
     <string name="disclaimer">Posters are provided https://www.movieposters.com/</string>
     <string name="btn_menu">Menu</string>
     <string name="btn_fav">Favourites</string>
     <string name="btn_watch_later">Watch it later</string>
     <string name="btn_selections">Compilations</string>
     <string name="btn_setting">Settings</string>
+    <string name="page_title">"Поиск "</string>
     <string name="menu_favorites_title">Favourites</string>
     <string name="menu_watch_later_title">Watch it later</string>
     <string name="menu_selections_title">Compilations</string>
     <string name="menu_settings_title">Settings</string>
-    <string name="res_text">Click</string>
 </resources>
